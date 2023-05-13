@@ -20,8 +20,9 @@ A macro for the ROBLOX game Bee Swarm Simulator that contains so many features t
 - Honey Wreath (BEESMAS)
 - Field Booster
 - Honeyday Candles (BEESMAS)
-- Stockings
+- Stockings (BEESMAS)
 - Onett's Lid Art (BEESMAS)
+- Gingerbread House (BEESMAS)
 - Planters
 - Bug Run
 - Auto Buff
