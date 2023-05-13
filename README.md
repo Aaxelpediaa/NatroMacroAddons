@@ -73,3 +73,4 @@ A macro for the ROBLOX game Bee Swarm Simulator that contains so many features t
 - Tide Popper Movement
 - Robo Pass Dispenser
 - Robo Bear Challenge
+- Robo Party (BEESMAS)
