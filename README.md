@@ -1,2 +1,75 @@
 # UltimateBeeGameHelper
 A macro for the ROBLOX game Bee Swarm Simulator that contains so many features that it will break the game itself.
+
+# Planned features:
+- Gather Fields
+- Preset Saving
+- Convert Type
+- Private Servers
+- Gathering Path
+- Tide Popper Gathering Path
+- Dark Scythe Gathering Path
+- Gummyballer Gathering Path
+- Sprinkler Options
+- Wealth Clock
+- Beesmas Feast
+- Blue Booster
+- Samovar
+- Free Ant Pass Dispenser
+- Red Field Booster
+- Honey Wreath
+- Field Booster
+- Honeyday Candles
+- Stockings
+- Onett's Lid Art
+- Planters
+- Bug Run
+- Auto Buff
+- Bucko Bee Quests
+- Riley Bee Quests
+- Black Bear Quests
+- Brown Bear Quests
+- Polar Bear Quests
+- Commando Chick
+- Blueberry Dispenser
+- Honey Dispenser
+- Honeystorm
+- Snow Machine
+- Royal Jelly Dispenser (Star Hall)
+- Gummy Beacon
+- Snowbear
+- Mythic Meteor Shower
+- Stump Snail
+- Treat Dispenser
+- Blender	
+- Honey Bee Quests
+- Strawberry Dispenser
+- Special Sprout Summoner
+- Ant Challenge
+- Glue Dispenser
+- Mondo Chick
+- Nectar Pot
+- Naughty List
+- Coconut Crab
+- Wind Shrine Donation
+- Coconut Dispenser
+- Memory Match
+- Puffshroom
+- Stick Bug
+- Gather Crafting Materials for Gear
+- Rogue Vicious Bee
+- Wild Windy Bee
+- Option for 4th Planter Rotation
+- Aphid
+- King Beetle
+- Tunnel Bear
+- Fireflies
+- Guiding Star
+- Star Shower
+- Sprouts
+- Cub Buddy Token Collect
+- Bean Bugs
+- More Nectar Presets
+- Tide Popper Movement
+- Robo Pass Dispenser
+- Robo Bear Challenge
