@@ -12,16 +12,16 @@ A macro for the ROBLOX game Bee Swarm Simulator that contains so many features t
 - Gummyballer Gathering Path
 - Sprinkler Options
 - Wealth Clock
-- Beesmas Feast
+- Beesmas Feast (BEESMAS)
 - Blue Booster
-- Samovar
+- Samovar (BEESMAS)
 - Free Ant Pass Dispenser
 - Red Field Booster
-- Honey Wreath
+- Honey Wreath (BEESMAS)
 - Field Booster
-- Honeyday Candles
+- Honeyday Candles (BEESMAS)
 - Stockings
-- Onett's Lid Art
+- Onett's Lid Art (BEESMAS)
 - Planters
 - Bug Run
 - Auto Buff
@@ -34,10 +34,10 @@ A macro for the ROBLOX game Bee Swarm Simulator that contains so many features t
 - Blueberry Dispenser
 - Honey Dispenser
 - Honeystorm
-- Snow Machine
+- Snow Machine (BEESMAS)
 - Royal Jelly Dispenser (Star Hall)
-- Gummy Beacon
-- Snowbear
+- Gummy Beacon (BEESMAS)
+- Snowbear (BEESMAS)
 - Mythic Meteor Shower
 - Stump Snail
 - Treat Dispenser
@@ -49,14 +49,14 @@ A macro for the ROBLOX game Bee Swarm Simulator that contains so many features t
 - Glue Dispenser
 - Mondo Chick
 - Nectar Pot
-- Naughty List
+- Naughty List (BEESMAS)
 - Coconut Crab
 - Wind Shrine Donation
 - Coconut Dispenser
 - Memory Match
 - Puffshroom
 - Stick Bug
-- Gather Crafting Materials for Gear
+- Gather Crafting Materials for Accessories
 - Rogue Vicious Bee
 - Wild Windy Bee
 - Option for 4th Planter Rotation
