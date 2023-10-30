@@ -1,77 +1,32 @@
-# UltimateBeeGameHelper
-A macro for the ROBLOX game Bee Swarm Simulator that contains so many features that it will break the game itself.
+# NatroMacroAddons
+A collection of addons that are intended to be used with Natro Macro (latest supported version: 0.9.6)
 
-# Planned features:
-- Gather Fields
-- Preset Saving
-- Convert Type
-- Private Servers
-- Gathering Path
+# Planned features (subject to change):
 - Tide Popper Gathering Path
 - Dark Scythe Gathering Path
 - Gummyballer Gathering Path
-- Sprinkler Options
-- Wealth Clock
-- Beesmas Feast (BEESMAS)
-- Blue Booster
-- Samovar (BEESMAS)
-- Free Ant Pass Dispenser
-- Red Field Booster
-- Honey Wreath (BEESMAS)
-- Field Booster
-- Honeyday Candles (BEESMAS)
-- Stockings (BEESMAS)
-- Onett's Lid Art (BEESMAS)
-- Gingerbread House (BEESMAS)
-- Planters
-- Bug Run
-- Auto Buff
-- Bucko Bee Quests
-- Riley Bee Quests
-- Black Bear Quests
-- Brown Bear Quests
-- Polar Bear Quests
-- Commando Chick
-- Blueberry Dispenser
-- Honey Dispenser
-- Honeystorm
-- Snow Machine (BEESMAS)
+- Brown Bear Quests (Planned for base Natro Macro)
 - Royal Jelly Dispenser (Star Hall)
-- Gummy Beacon (BEESMAS)
 - Snowbear (BEESMAS)
 - Mythic Meteor Shower
-- Stump Snail
-- Treat Dispenser
 - Blender	
-- Honey Bee Quests
-- Strawberry Dispenser
 - Special Sprout Summoner
-- Ant Challenge
-- Glue Dispenser
-- Mondo Chick
 - Nectar Pot
 - Naughty List (BEESMAS)
-- Coconut Crab
 - Wind Shrine Donation
-- Coconut Dispenser
-- Memory Match
+- Memory Match (Planned for base Natro Macro)
 - Puffshroom
 - Stick Bug
-- Gather Crafting Materials for Accessories
-- Rogue Vicious Bee
+- Gather Crafting Materials
 - Wild Windy Bee
-- Option for 4th Planter Rotation
 - Aphid
-- King Beetle
-- Tunnel Bear
 - Fireflies
 - Guiding Star
 - Star Shower
 - Sprouts
-- Cub Buddy Token Collect
-- Bean Bugs
-- More Nectar Presets
-- Tide Popper Movement
-- Robo Pass Dispenser
 - Robo Bear Challenge
 - Robo Party (BEESMAS)
+- Drive Runs
+- Roll Moon Amulets
+- Roll Star Amulets
+- Hive Improver (Mutations, Gifteds, Comps etc.)
